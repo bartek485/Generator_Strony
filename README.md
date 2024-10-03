@@ -1,3 +1,8 @@
+ZESPÓŁ PRACUJĄCY NAD PROJEKTEM:
+Bartosz Niemyjski
+Anuszka Woszczyńska
+Zuzanna Moczulska
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Program służy do generowania strony internetowej.
 Wynikiem działania programu sa dwa pliki: pierwszy z rozszerzeniem html i drugi z rozszerzeniem css.
 Użytkownik podczas działania programu lub w pliku dane.txt definiuje następujące elementy strony www w poszczególnych liniach
