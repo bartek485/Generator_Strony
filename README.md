@@ -1,7 +1,7 @@
 ZESPÓŁ PRACUJĄCY NAD PROJEKTEM:
-Bartosz Niemyjski
-Anuszka Woszczyńska
-Zuzanna Moczulska
+-Bartosz Niemyjski
+-Anuszka Woszczyńska
+-Zuzanna Moczulska
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Program służy do generowania strony internetowej.
 Wynikiem działania programu sa dwa pliki: pierwszy z rozszerzeniem html i drugi z rozszerzeniem css.
