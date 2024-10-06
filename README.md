@@ -33,8 +33,8 @@ Użytkownik podczas działania programu lub w pliku dane.txt definiuje następuj
 20. Treść stopki strony
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Możliwe opcje tła:
-NIE-brak grafiki jako tło
-RY_TAK lub RY_NIE-powtarzanie w pionie
-RX_TAK lub RX_NIE-powtarzanie w poziomie
-ROZ_TAK lub RZO_NIE-rozciąganie grafiki
-FIX_TAK lub FIX_NIE-zablokowanie przewijania grafiki
+-NIE-brak grafiki jako tło
+-RY_TAK lub RY_NIE-powtarzanie w pionie
+-RX_TAK lub RX_NIE-powtarzanie w poziomie
+-ROZ_TAK lub RZO_NIE-rozciąganie grafiki
+-FIX_TAK lub FIX_NIE-zablokowanie przewijania grafiki
