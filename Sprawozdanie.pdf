@@ -1,0 +1,24 @@
+Sprawozdanie z pracy zespołu:
+
+UCZESTNICY ZESPOŁU
+
+Bartosz Niemyjski- funkcje zapisujące do pliku, funkcja wyświetlająca wczytane dane, wczytanie i interpretacja danych, tworzenie pliku z ręcznie wpisanymi danymi
+
+Anuszka Woszczyńska- generowanie CSS i przygotowanie przykładowego pliku CSS, scenariusz sprawozdania video
+
+Zuzanna Moczulska- generowanie HTML i przygotowanie przykładowego pliku HTML, tworzenie filmiku z prezentacją programu
+
+TRUDNOŚCI PODCZAS PRACY I ICH ROZWIĄZANIE
+
+1. Na jednym z naszych komputerów nie działał CodeBlock. Rozwiązaniem było zainstalowanie kompilatora MinGW i zaimplementowanie go do zmiennej środowiskowej PATH
+
+2. Kolumny zamiast w postaci kolumn wyświetlały się jedna pod drugą. Rozwiązaniem było wprowadzenie do sekcji CSS Flexboxa.
+
+3. Grafiki się nie wyświetlały. Rozwiązaniem było dodanie tagów <img> w sekcji HTML.
+
+4. Po pobraniu i włączeniu aplikacji w formacie exe na innym komputerze pojawiał się błąd. Rozwiązaniem było statyczne linkowanie plików DLL z poziomu wiersza poleceń.
+
+PLIKI DO OCENY
+
+Generator_strony_internetowej.cpp-pilk z kodem źródłowym programu
+Generuj_strone.exe-plik skompilowanej aplikacji
