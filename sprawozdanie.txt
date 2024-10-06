@@ -1,9 +1,0 @@
-UCZESTNICY ZESPOŁU
-
-UCZESTNICY ZESPOŁU
-
-Bartosz Niemyjski- funkcje zapisujące do pliku, funkcja wyświetlająca wczytane dane, wczytanie i interpretacja danych, tworzenie pliku z ręcznie wpisanymi danymi
-
-Anuszka Woszczyńska- generowanie CSS i przygotowanie przykładowego pliku CSS, scenariusz sprawozdania video
-
-Zuzanna Moczulska- generowanie HTML i przygotowanie przykładowego pliku HTML, tworzenie filmiku z prezentacją programu
