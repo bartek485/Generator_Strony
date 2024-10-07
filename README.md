@@ -6,7 +6,9 @@ Anuszka Woszczyńska
 
 Zuzanna Moczulska
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Link do filmu prezentującego projekt: https://youtu.be/aTcWP2zFwVs
+
 Program służy do generowania strony internetowej.
 Wynikiem działania programu sa dwa pliki: pierwszy z rozszerzeniem html i drugi z rozszerzeniem css.
 Użytkownik podczas działania programu lub w pliku dane.txt definiuje następujące elementy strony www w poszczególnych liniach
